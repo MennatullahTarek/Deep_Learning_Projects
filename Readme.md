@@ -44,5 +44,5 @@ This repository contains a collection of deep learning projects I've worked on, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/deep-learning-projects.git
+   git clone https://github.com/MennatullahTarek/deep-learning-projects.git
    cd deep-learning-projects
